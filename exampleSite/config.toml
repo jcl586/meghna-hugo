@@ -1,5 +1,5 @@
 baseURL = "https://jcl586.netlify.com"
-disableLanguages = []
+disableLanguages = ["FR"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
